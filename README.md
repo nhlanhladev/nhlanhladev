@@ -18,7 +18,7 @@ I'm a passionate React Native developer with a love for creating mobile applicat
 Description: Brief description of the project.
 Technologies: React Native, Expo, Firebase
 
-### Project 2: [News-App](Project URL)
+### Project 2: [Expo-News-App](https://github.com/imrohit007/React-Native-Expo-News-App.git)
 Description: Brief description of the project.
 Technologies: React Native, Redux, MongoDB
 
