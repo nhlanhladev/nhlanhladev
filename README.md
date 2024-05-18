@@ -24,21 +24,21 @@ Technologies: React Native, Redux, MongoDB
 
 ### Project 3: [nft-market-main](Project URL)
 Description: Brief description of the project.
-Technologies: React Native, javascript,vscode
+Technologies: React Native, Javascript,vscode
 
 ### Project 3: [coffe-shop](https://coffeeshop-n4ny.onrender.com)
 Description: its an eccomerce website to buy coffee online was built using on angular framework using IDE visual studio, bootstrap,mongodb for database.
 Technologies: TypeScript,vscode,bootstrap
 
 ## Experience
-### [tsalanoholding](wwww.tsalanoholdings.co.za) - React Native Developer (2years)
+### [tsalanoholding](https://www.tsalanoholdings.co.za) - React Native Developer (2years)
 - Developed and maintained cross-platform mobile applications using React Native.
 - Collaborated with the team to implement new features and fix bugs.
 - Worked closely with designers to ensure pixel-perfect UI/UX.
 -  Collaborated with designers, backend developers, and other team members to deliver high-quality mobile applications on time 
 - Participated in code reviews, providing constructive feedback to team members 
 
-### [tsalanoholding](www.tsalanoholdings.coz.za) - Angular Developer (1 year)
+### [tsalanoholding](https://www.tsalanoholdings.co.za) - Angular Developer (1 year)
 - Work closely with web developers and backend engineers 
 - Create high-performing, responsive and interactive web application 
 - Uni-test the code and debug the application 
@@ -55,5 +55,5 @@ Technologies: TypeScript,vscode,bootstrap
 
 ## Contact Me
 - Email: (dhlamininhlanhla1@gmail.com)
-- LinkedIn: [John Smith](LinkedIn URL)
-- GitHub: [JohnSmith](GitHub URL)
+- LinkedIn: [Nhlanhla Dhlamini](LinkedIn URL)
+- GitHub: [Nhlanhla Dhlamini](GitHub URL)
