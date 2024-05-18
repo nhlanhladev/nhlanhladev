@@ -19,16 +19,16 @@ Description: Brief description of the project.
 Technologies: React Native, Expo, Firebase
 
 ### Project 2: [Expo-News-App](https://github.com/imrohit007/React-Native-Expo-News-App.git)
-Description: Brief description of the project.
+Description: Cryptocurrency news app in react native expo.
 Technologies: React Native, Redux, MongoDB
 
 ### Project 3: [nft-market-main](Project URL)
 Description: Brief description of the project.
-Technologies: React Native, TypeScript, Node.js
+Technologies: React Native, javascript,vscode
 
 ### Project 3: [coffe-shop](https://coffeeshop-n4ny.onrender.com/productsList)
 Description: its an eccomerce website to buy coffee online was built using on angular framework using IDE visual studio, bootstrap,mongodb for database.
-Technologies: React Native, TypeScript, Node.js
+Technologies: TypeScript,vscode,bootstrap
 
 ## Experience
 ### [tsalanoholding](wwww.tsalanoholdings.co.za) - React Native Developer (2years)
