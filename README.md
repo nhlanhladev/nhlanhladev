@@ -26,7 +26,7 @@ Technologies: React Native, Redux, MongoDB
 Description: Brief description of the project.
 Technologies: React Native, javascript,vscode
 
-### Project 3: [coffe-shop](https://coffeeshop-n4ny.onrender.com/productsList)
+### Project 3: [coffe-shop](https://coffeeshop-n4ny.onrender.com)
 Description: its an eccomerce website to buy coffee online was built using on angular framework using IDE visual studio, bootstrap,mongodb for database.
 Technologies: TypeScript,vscode,bootstrap
 
