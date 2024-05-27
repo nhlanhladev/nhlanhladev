@@ -14,9 +14,10 @@ I'm a passionate React Native developer with a love for creating mobile applicat
 - **UI Frameworks:** React Native Paper, React Native Elements
 
 ## Projects
-### Project 1: [Foodie] 
-Description: Brief description of the project.
-Technologies: React Native, Expo, Firebase
+### Project 1: [tech-news](https://github.com/BrijenMakwana/yt-tech-news-app)
+Description: Stay ahead of the curve with TechPulse, your go-to app for the latest and greatest in technology news. Built with cutting-edge technology, TechPulse ensures you get the most relevant and up-to-date information right at your fingertips.
+
+Technologies: React Native, Expo, javascript,axios
 
 ### Project 2: [Expo-News-App](https://github.com/imrohit007/React-Native-Expo-News-App.git)
 Description: Cryptocurrency news app in react native expo.
