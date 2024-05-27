@@ -27,8 +27,8 @@ Description: Brief description of the project.
 Technologies: React Native, Javascript,vscode
 
 ### Project 3: [coffe-shop](https://coffeeshop-n4ny.onrender.com)
-Description: its an eccomerce website to buy coffee online was built using on angular framework using IDE visual studio, bootstrap,mongodb for database.
-Technologies: TypeScript,vscode,bootstrap
+Description: Welcome to Coffee Haven, the ultimate online destination for coffee enthusiasts! Our e-commerce website is crafted with cutting-edge technology to provide you with a seamless shopping experience. Here’s a peek into the tech behind Coffee shop
+Technologies: TypeScript,vscode,bootstrap, Angular Framework,
 
 ## Experience
 ### [tsalanoholding](https://www.tsalanoholdings.co.za) - React Native Developer (2years)
