@@ -14,7 +14,7 @@ I'm a passionate React Native developer with a love for creating mobile applicat
 - **UI Frameworks:** React Native Paper, React Native Elements
 
 ## Projects
-### Project 1: [Foodie](Project URL)
+### Project 1: [Foodie] 
 Description: Brief description of the project.
 Technologies: React Native, Expo, Firebase
 
@@ -22,7 +22,7 @@ Technologies: React Native, Expo, Firebase
 Description: Cryptocurrency news app in react native expo.
 Technologies: React Native, Redux, MongoDB
 
-### Project 3: [nft-market-main](Project URL)
+### Project 3: [nft-market-main]
 Description: Brief description of the project.
 Technologies: React Native, Javascript,vscode
 
